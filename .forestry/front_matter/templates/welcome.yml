@@ -5,3 +5,11 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: ye_kya_ho_raha_hai_yahan____
+  type: blocks
+  label: Ye kya ho raha hai yahan????
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Some random text
