@@ -1,15 +1,16 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
 
-Some information about you!
+# Anirudh Kachroo
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+    while(alive){
+    	bla();
+    }
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+anirudh.kac@yahoo.com
